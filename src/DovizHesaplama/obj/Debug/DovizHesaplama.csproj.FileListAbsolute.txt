@@ -1,0 +1,14 @@
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\DovizHesaplama.exe.config
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\DovizHesaplama.exe
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\DovizHesaplama.pdb
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.csproj.AssemblyReference.cache
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.Form1.resources
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.Properties.Resources.resources
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.csproj.GenerateResource.cache
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.exe
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.pdb
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\obj\Debug\DovizHesaplama.csproj.CopyComplete
+C:\Users\kvann\OneDrive\Masaüstü\DovizHesaplama\DovizHesaplama\bin\Debug\Guna.UI2.dll
